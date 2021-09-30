@@ -1,0 +1,2 @@
+# 「.AppleDouble」フォルダを除外
+./test_rg1/.terraform/*
